@@ -1,8 +1,8 @@
-package mikaseeartea;
+package maumaumau.net.basic;
 import java.util.Scanner;
 
 /** Mein zweites Java-Programm
-    @author     Mika Seeartea
+    @author     Maumaumau.net
     @version    1.0
     @see        java.util.Scanner
  */
