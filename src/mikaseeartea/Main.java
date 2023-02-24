@@ -1,8 +1,8 @@
-package ch.roxymoe;
+package mikaseeartea;
 import java.util.Scanner;
 
 /** Mein zweites Java-Programm
-    @author     Roxy Moe
+    @author     Mika Seeartea
     @version    1.0
     @see        java.util.Scanner
  */
